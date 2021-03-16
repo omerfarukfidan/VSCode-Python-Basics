@@ -1,0 +1,1 @@
+print('Ece\'nin Dünyasına Hoşgeldiniz')

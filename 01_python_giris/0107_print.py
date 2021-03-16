@@ -1,0 +1,1 @@
+print("kim\tkorkar\npythondan")
