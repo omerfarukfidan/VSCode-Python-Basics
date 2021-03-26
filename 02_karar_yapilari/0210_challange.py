@@ -10,9 +10,9 @@ Güncel Bilet Fiyatı 150 TL.
 
 currentMoney=4000
 valueOfTicket=float(input("Please enter the value of ticket:"))
-weightOfBeg=20
+weightOfBeg=10
 
 if weightOfBeg>=15:
     diff=weightOfBeg-15
     valueOfTicket+=5
-print(f"Current ticket cost: {valueOfTicket}")
+print(f"Current ticket cost: {valueOfTicket*1.18}")
